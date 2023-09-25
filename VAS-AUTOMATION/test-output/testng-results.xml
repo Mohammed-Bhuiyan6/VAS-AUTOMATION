@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-12T11:29:34 EDT" name="Default suite" finished-at="2023-09-12T11:30:20 EDT" duration-ms="46171">
+    <groups>
+    </groups>
+    <test started-at="2023-09-12T11:29:34 EDT" name="Default test" finished-at="2023-09-12T11:30:20 EDT" duration-ms="46171">
+      <class name="gov.vas_testcases.TC010_FS_newUser_patient_search">
+        <test-method is-config="true" signature="setup_extent_report()[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:34 EDT" name="setup_extent_report" finished-at="2023-09-12T11:29:34 EDT" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup_extent_report -->
+        <test-method is-config="true" signature="initialize_test()[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:34 EDT" name="initialize_test" finished-at="2023-09-12T11:29:34 EDT" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize_test -->
+        <test-method signature="open_vas_application()[pri:4, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:34 EDT" name="open_vas_application" finished-at="2023-09-12T11:29:49 EDT" duration-ms="14757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_vas_application -->
+        <test-method is-config="true" signature="get_tests_result_status(org.testng.ITestResult)[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:49 EDT" name="get_tests_result_status" finished-at="2023-09-12T11:29:49 EDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=open_vas_application status=SUCCESS method=HomeLoginPageTest.open_vas_application()[pri:4, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_tests_result_status -->
+        <test-method is-config="true" signature="initialize_test()[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:49 EDT" name="initialize_test" finished-at="2023-09-12T11:29:49 EDT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize_test -->
+        <test-method signature="_login_page_test_05()[pri:5, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:49 EDT" name="_login_page_test_05" finished-at="2023-09-12T11:29:50 EDT" duration-ms="1081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _login_page_test_05 -->
+        <test-method is-config="true" signature="get_tests_result_status(org.testng.ITestResult)[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:50 EDT" name="get_tests_result_status" finished-at="2023-09-12T11:29:50 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=_login_page_test_05 status=SUCCESS method=HomeLoginPageTest._login_page_test_05()[pri:5, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_tests_result_status -->
+        <test-method is-config="true" signature="initialize_test()[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:50 EDT" name="initialize_test" finished-at="2023-09-12T11:29:50 EDT" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize_test -->
+        <test-method signature="_loginpg_logo_test_06()[pri:6, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:50 EDT" name="_loginpg_logo_test_06" finished-at="2023-09-12T11:29:50 EDT" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _loginpg_logo_test_06 -->
+        <test-method is-config="true" signature="get_tests_result_status(org.testng.ITestResult)[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:50 EDT" name="get_tests_result_status" finished-at="2023-09-12T11:29:50 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=_loginpg_logo_test_06 status=SUCCESS method=HomeLoginPageTest._loginpg_logo_test_06()[pri:6, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_tests_result_status -->
+        <test-method is-config="true" signature="initialize_test()[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:50 EDT" name="initialize_test" finished-at="2023-09-12T11:29:50 EDT" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize_test -->
+        <test-method signature="_verify_feature_test_07()[pri:7, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:50 EDT" name="_verify_feature_test_07" finished-at="2023-09-12T11:29:52 EDT" duration-ms="2080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _verify_feature_test_07 -->
+        <test-method is-config="true" signature="get_tests_result_status(org.testng.ITestResult)[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:52 EDT" name="get_tests_result_status" finished-at="2023-09-12T11:29:52 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=_verify_feature_test_07 status=SUCCESS method=HomeLoginPageTest._verify_feature_test_07()[pri:7, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_tests_result_status -->
+        <test-method is-config="true" signature="initialize_test()[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:52 EDT" name="initialize_test" finished-at="2023-09-12T11:29:52 EDT" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize_test -->
+        <test-method signature="_login_header_test_08()[pri:8, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:52 EDT" name="_login_header_test_08" finished-at="2023-09-12T11:29:53 EDT" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _login_header_test_08 -->
+        <test-method is-config="true" signature="get_tests_result_status(org.testng.ITestResult)[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="get_tests_result_status" finished-at="2023-09-12T11:29:53 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=_login_header_test_08 status=SUCCESS method=HomeLoginPageTest._login_header_test_08()[pri:8, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_tests_result_status -->
+        <test-method is-config="true" signature="initialize_test()[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="initialize_test" finished-at="2023-09-12T11:29:53 EDT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize_test -->
+        <test-method signature="_pat_search_mod_test_09()[pri:9, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="_pat_search_mod_test_09" finished-at="2023-09-12T11:29:53 EDT" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _pat_search_mod_test_09 -->
+        <test-method is-config="true" signature="get_tests_result_status(org.testng.ITestResult)[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="get_tests_result_status" finished-at="2023-09-12T11:29:53 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=_pat_search_mod_test_09 status=SUCCESS method=PatientSearchTests._pat_search_mod_test_09()[pri:9, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_tests_result_status -->
+        <test-method is-config="true" signature="initialize_test()[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="initialize_test" finished-at="2023-09-12T11:29:53 EDT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize_test -->
+        <test-method signature="_search_page_test_10()[pri:10, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="_search_page_test_10" finished-at="2023-09-12T11:29:53 EDT" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _search_page_test_10 -->
+        <test-method is-config="true" signature="get_tests_result_status(org.testng.ITestResult)[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="get_tests_result_status" finished-at="2023-09-12T11:29:53 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=_search_page_test_10 status=SUCCESS method=PatientSearchTests._search_page_test_10()[pri:10, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_tests_result_status -->
+        <test-method is-config="true" signature="initialize_test()[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="initialize_test" finished-at="2023-09-12T11:29:53 EDT" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize_test -->
+        <test-method signature="_pat_full_search_test_11()[pri:11, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="_pat_full_search_test_11" finished-at="2023-09-12T11:29:53 EDT" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _pat_full_search_test_11 -->
+        <test-method is-config="true" signature="get_tests_result_status(org.testng.ITestResult)[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="get_tests_result_status" finished-at="2023-09-12T11:29:53 EDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=_pat_full_search_test_11 status=SUCCESS method=PatientFullNameSearchTests._pat_full_search_test_11()[pri:11, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_tests_result_status -->
+        <test-method is-config="true" signature="initialize_test()[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="initialize_test" finished-at="2023-09-12T11:29:53 EDT" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize_test -->
+        <test-method signature="_full_search_page_test_12()[pri:12, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="_full_search_page_test_12" finished-at="2023-09-12T11:29:53 EDT" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _full_search_page_test_12 -->
+        <test-method is-config="true" signature="get_tests_result_status(org.testng.ITestResult)[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="get_tests_result_status" finished-at="2023-09-12T11:29:53 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=_full_search_page_test_12 status=SUCCESS method=PatientFullNameSearchTests._full_search_page_test_12()[pri:12, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_tests_result_status -->
+        <test-method is-config="true" signature="initialize_test()[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="initialize_test" finished-at="2023-09-12T11:29:53 EDT" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize_test -->
+        <test-method signature="verify_newuser_patient_fs()[pri:13, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:29:53 EDT" name="verify_newuser_patient_fs" finished-at="2023-09-12T11:30:20 EDT" duration-ms="26641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_newuser_patient_fs -->
+        <test-method is-config="true" signature="get_tests_result_status(org.testng.ITestResult)[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:30:20 EDT" name="get_tests_result_status" finished-at="2023-09-12T11:30:20 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_newuser_patient_fs status=SUCCESS method=TC010_FS_newUser_patient_search.verify_newuser_patient_fs()[pri:13, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_tests_result_status -->
+        <test-method is-config="true" signature="end_test_report()[pri:0, instance:gov.vas_testcases.TC010_FS_newUser_patient_search@cecf639]" started-at="2023-09-12T11:30:20 EDT" name="end_test_report" finished-at="2023-09-12T11:30:20 EDT" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end_test_report -->
+      </class> <!-- gov.vas_testcases.TC010_FS_newUser_patient_search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

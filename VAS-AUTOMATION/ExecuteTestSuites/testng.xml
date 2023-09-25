@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression TestSuite">
+  <test thread-count="5" name="Regression Tests">
+    <classes>
+         <class name="gov.vas_testcases.TC009_PS_single_patient_4d_ssn"/>
+         <class name="gov.vas_testcases.TC003_patient_FS_open_record_ssn"/>
+        <class name="gov.vas_testcases.TC007_search_single_patient_dob"/>
+        <class name="gov.vas_testcases.TC006_Validate_select_PS_record"/>
+        <class name="gov.vas_testcases.TC004_PS_select_patient_record2"/>
+        <class name="gov.vas_testcases.TC008_FS_single_patient_ssn"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
